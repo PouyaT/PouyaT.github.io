@@ -1,5 +1,9 @@
 ## About Me
-<img src="Images/IMG-20190314-WA0003.jpg" width="200">  <img src="Images/
+<p float="left">
+  <img src="Images/IMG-20190314-WA0003.jpg" width="300" height="240" />
+  <img src="/Images/Snapchat-333778202.jpg" width="300" height="240"/> 
+</p>
+
 
 I am a current Senior at the University of Oklahoma (OU) studying Computer Engineering with minors in Computer Science and Math
 
