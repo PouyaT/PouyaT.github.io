@@ -1,7 +1,7 @@
 ## About Me
 <p float="left">
-  <img src="Images/IMG-20190314-WA0003.jpg" width="260" height="224" />
-  <img src="/Images/Snapchat-333778202.jpg" width="260" height="224" /> 
+  <img src="Images/IMG-20190314-WA0003.jpg" width="322" height="257" />
+  <img src="/Images/Snapchat-333778202.jpg" width="322" height="257" /> 
 </p>
 
 
