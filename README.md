@@ -17,6 +17,8 @@ Projects I have worked on not featured on my github:
 
 Link to my [Github Repositories](https://github.com/PouyaT)
 
+Resume:<a href="PouyaT.github.io/Resume.pdf" target="_blank">PDF.</a>
+
 ### Contact
 
 **email:** 1pouya.tavakoli@gmail.com
