@@ -20,5 +20,6 @@ Link to my [Github Repositories](https://github.com/PouyaT)
 ### Contact
 
 **email:** 1pouya.tavakoli@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/pouya-tavakoli-33726a14b/
+
+**LinkedIn:** [LinkedIn link](https://www.linkedin.com/in/pouya-tavakoli-33726a14b/)
 
