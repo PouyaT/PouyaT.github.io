@@ -1,6 +1,6 @@
 ## About Me
 
-I am a current Senior at the University of Oklahoma (OU) studying Computer Engineering with a minors in Computer Science and Math
+I am a current Senior at the University of Oklahoma (OU) studying Computer Engineering with minors in Computer Science and Math
 
 
 ### Personal Work
