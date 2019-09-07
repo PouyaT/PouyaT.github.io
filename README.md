@@ -18,6 +18,7 @@ Projects I have worked on not featured on my github:
 Link to my [Github Repositories](https://github.com/PouyaT)
 
 Link to my [Resume](<embed src="https://PouyaT.github.io/Resume.pdf" type="application/pdf" />)
+<embed src="https://PouyaT.github.io/Resume.pdf" type="application/pdf" />)
 
 ### Contact
 
