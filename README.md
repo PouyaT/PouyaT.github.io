@@ -21,7 +21,7 @@ Link to my [Resume](https://github.com/PouyaT/PouyaT.github.io/raw/master/Resume
 
 ### Contact
 
-**email:** 1pouya.tavakoli@gmail.com
+**Email:** 1pouya.tavakoli@gmail.com
 
 **LinkedIn:** [LinkedIn link](https://www.linkedin.com/in/pouya-tavakoli-33726a14b/)
 
