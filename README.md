@@ -1,4 +1,5 @@
 ## About Me
+<img src="Images/IMG-20190314-WA0003.jpg" width="300">
 
 I am a current Senior at the University of Oklahoma (OU) studying Computer Engineering with minors in Computer Science and Math
 
